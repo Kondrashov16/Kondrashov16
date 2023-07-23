@@ -47,3 +47,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
 </div>
+
+###
+
+About me:
+- I’m working as a Flutter Developer and contributing to flutter applications.
+
+- Skills: Dart, Flutter, OOP, Git, SQL, SOLID
+
+- Contact: kondraschov.stepan@gmail.com
