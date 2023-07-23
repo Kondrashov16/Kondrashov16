@@ -17,7 +17,7 @@
 
 ###
 
-<img align="left" height="240" src="https://i.giphy.com/media/kiBcwEXegBTACmVOnE/giphy.webp"  />
+<img align="left" height="320" src="https://i.giphy.com/media/kiBcwEXegBTACmVOnE/giphy.webp"  />
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
