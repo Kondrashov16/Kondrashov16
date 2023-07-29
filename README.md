@@ -55,6 +55,19 @@
 About me:
 - I’m working as a Flutter Developer and contributing to flutter applications.
 
-- Skills: Dart, Flutter, OOP, Git, SQL, SOLID
+- Skills: Dart, Flutter, OOP, Git, SQL, SOLID, Firebase
 
 - Contact: kondraschov.stepan@gmail.com
+
+###
+
+Stack:
+- State: BLoC, Riverpod, Provider, GetX
+- Network: REST API, dio, http, Web-Sockets
+- DB: Firebase, Shared Preferences, Hive, Isar, sqflite
+- DI/SL: get_it
+- Navigation: Navigator 2.0, auto_route, go_router
+- Codegen: freezed, json_serializable
+- Other: Git, Figma, GitHub/GitLab/Bitbucket, Jira, Confluence, Postman
+
+###
