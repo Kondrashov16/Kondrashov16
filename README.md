@@ -58,11 +58,11 @@ About me:
 ###
 
 Stack:
-- State: BLoC, Riverpod, Provider, GetX
+- State: BLoC, Riverpod
 - Network: REST API, dio, http, Web-Sockets
-- DB: Firebase, Shared Preferences, Hive, Drift, sqflite
-- DI/SL: get_it
-- Navigation: Navigator 2.0, auto_route, go_router
+- DB: Firebase, Shared Preferences, Drift, sqflite
+- DI/SL: Provider, get_it
+- Navigation: Navigator 2.0, go_router, auto_route, 
 - Codegen: freezed, json_serializable, etc.
 - Other: Git, Figma, GitHub/GitLab/Bitbucket, Jira, Confluence, Postman
 
